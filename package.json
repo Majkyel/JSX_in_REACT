@@ -1,0 +1,15 @@
+{
+  "name": "JSX_in_REACT",
+  "version": "1.0.0",
+  "description": "I created contact_app_in_REACT in JSX.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-standalone": "^6.26.0"
+  }
+}
