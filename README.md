@@ -9,6 +9,7 @@ In this project I created contact_app_in_REACT in JSX.
 ## SOURCE 
 While creating the project I used: 
 1. REACT Documentation [https://reactjs.org/docs/getting-started.html]
+2. Babel Documentation [https://babeljs.io/]
 
 ## TOOLS 
 I used package.json and task runner.
