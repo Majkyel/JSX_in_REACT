@@ -5,7 +5,7 @@ var ContactForm = React.createClass({
     
     render: function() {
         return (
-            <form className={'contactForm'}>
+            <form className={'contact_form'}>
                 <label className={'label'} htmlFor={'firstname'}>
                     First name:
                     <input type='text' id='firstname' placeholder='First name' value={this.props.contact.firstName}/>
